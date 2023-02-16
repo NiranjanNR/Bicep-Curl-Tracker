@@ -3,8 +3,6 @@ A Computer Vision project implemented using openCV and mediapipe to help assist 
 
 A sample of how this works is given below in the screenshots:
 
-![Screenshot 2023-02-16 at 6 59 33 PM](https://user-images.githubusercontent.com/84635960/219378577-87c9e0ca-2eec-4264-8d2b-7acaea5e985d.png)
+![Screenshot 2023-02-16 at 7 08 23 PM](https://user-images.githubusercontent.com/84635960/219380061-b2699b66-5bf4-4580-95d9-be48246352c5.png)
 
-![Screenshot 2023-02-16 at 6 59 48 PM](https://user-images.githubusercontent.com/84635960/219378606-a5282f74-2f57-4d0d-860f-6289acc409ef.png)
-
-![Screenshot 2023-02-16 at 7 00 12 PM](https://user-images.githubusercontent.com/84635960/219378623-11420b8d-1e3d-4a00-89a5-defcbd9d692a.png)
+![Screenshot 2023-02-16 at 7 08 40 PM](https://user-images.githubusercontent.com/84635960/219380080-c51c5620-772c-4334-8878-b62c6a3a1f03.png)
